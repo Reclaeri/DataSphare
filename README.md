@@ -69,3 +69,6 @@ Memastikan data absensi valid dan tidak kosong.
 * Jika `status` kosong → set default `"Hadir"`
 
 ---
+
+
+<img width="1512" height="636" alt="erd pbo drawio" src="https://github.com/user-attachments/assets/1674966f-2656-4c26-9575-86a721f7844e" />

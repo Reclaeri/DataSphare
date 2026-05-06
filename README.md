@@ -1,3 +1,8 @@
+Nama Anggota Kelompok :
+# Revan Oknanda
+# Syahrul Haqqin Nazil
+# Bilqis Rifat Safaa
+
 # ⚙️ Database Trigger Documentation
 
 Dokumentasi ini berisi trigger utama yang digunakan dalam sistem **Sistem Informasi Ekstrakurikuler** untuk menjaga konsistensi data.
